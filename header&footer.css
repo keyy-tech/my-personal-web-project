@@ -76,8 +76,8 @@
     opacity: 1;
 }
 
-.header .navbar .navtab li a:hover,.header .navbar .navtab:active,.header.navbar.navtab:focus{
-    border-bottom: 2px solid var(--HEADER-FONT-COLOR);
+.header .navbar .navtab li a:hover,.header.navbar.navtab:focus{
+    border-bottom: 1px solid var(--HEADER-FONT-COLOR);
     font-weight: bold;
 }
 
